@@ -54,10 +54,30 @@ h1 {
     font-weight: 300;
 	font-size: 100px;
 	line-height: 1.2;
-	margin-bottom: 15px;
+	margin-bottom: 2px;
     text-shadow: 2px 2px black;
 }
 .szoveg {
     z-index: 2;
     
 }
+
+h3:hover {
+	text-decoration: underline;
+	color: rgb(204, 200, 200);
+	cursor: pointer;
+}
+
+h3 {
+	
+}
+
+.keret {
+	border-top: 2px solid;
+	
+}
+
+footer {
+	z-index: 2;
+}
+
