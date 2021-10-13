@@ -66,6 +66,7 @@ h3:hover {
 	text-decoration: underline;
 	color: rgb(204, 200, 200);
 	cursor: pointer;
+	font-size: 20px;
 }
 
 h3 {
